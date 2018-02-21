@@ -3,6 +3,7 @@
 const version = '{{ site.time | date: '%Y%m%d%H%M%S' }}';
 const cacheName = `static::${version}`;
 
+
 const buildContentBlob = () => {
   return [
     {%- for post in site.posts limit: 10 -%}
