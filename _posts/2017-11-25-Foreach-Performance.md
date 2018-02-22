@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:   for 与foreach 循环性能测试
-category: blog
-description:	for 与foreach 循环性能测试
+title: 测试foreach for 的循环性能
+excerpt: |
+  测试foreach for 的循环性能
+category: Java 性能
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### 测试foreach for 的循环性能
 

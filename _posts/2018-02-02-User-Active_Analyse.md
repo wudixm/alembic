@@ -1,3 +1,10 @@
+---
+title: 活跃用户的计算
+excerpt: |
+  活跃用户的计算
+category: 运营
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 <http://www.woshipm.com/tag/%E7%94%A8%E6%88%B7%E6%B4%BB%E8%B7%83%E5%BA%A6>
 
 <http://www.woshipm.com/operate/369553.html>
