@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:   Git 基础命令
-category: blog
-description:	Git 基础命令
+title: Git 基础命令
+excerpt: |
+  Git 基础命令
+category: Git
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### Git 常用命令，后面的命令是alias
 
