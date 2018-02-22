@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:    反编译Java new对象过程后的dup 操作作用
-category: blog
-description:	反编译Java new对象过程后的dup 操作作用
+title: 反编译Java new对象过程后的dup 操作作用
+excerpt: |
+  反编译Java new对象过程后的dup 操作作用
+category: JVM 字节码
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### 问题：
 

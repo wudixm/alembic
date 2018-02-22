@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:   Java 泛型实现原理
-category: blog
-description:	Java 泛型实现原理
+title: Java 泛型的实现原理
+excerpt: |
+  Java 泛型的实现原理
+category: Java Generic
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ## Java 泛型的实现原理
 
