@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:   Struts2 基础
-category: blog
-description:	Struts2 基础
+title: Struts2 入门
+excerpt: |
+  Struts2 入门
+category: Java Frameworks
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ## Struts2
 

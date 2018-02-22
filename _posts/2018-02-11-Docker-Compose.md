@@ -1,3 +1,10 @@
+---
+title: Docker Compose 入门
+excerpt: |
+  Docker Compose 入门
+category: Docker
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 ### Docker Compose
 
 使用一个Docker-Compose，可以用一个YAML 文件定义一组要启动的容器，以及容器运行时的属性。Docker Compose 称这些容器为“服务”，像这样定义：

@@ -1,3 +1,10 @@
+---
+title: Java ThreadLocal
+excerpt: |
+  Java ThreadLocal
+category: Java Concurrent
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 ### ThreadLocal
 
 #### ThreadLocal 的withInitial() 方法 
