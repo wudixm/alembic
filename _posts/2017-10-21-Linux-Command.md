@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:    Linux Command
-category: blog
-description:	Linux Command
+title: Linux 命令
+excerpt: |
+  Linux 命令
+category: Linux
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 #### Linux返回上一次目录
 

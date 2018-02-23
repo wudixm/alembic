@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:    Integer 的缓存机制
-category: blog
-description:	Integer 的缓存机制
+title: Integer 的缓存机制
+excerpt: |
+  Integer 的缓存机制
+category: JVM 字节码
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### 问题
 

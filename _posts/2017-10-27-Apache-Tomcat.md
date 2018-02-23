@@ -1,3 +1,10 @@
+---
+title: 服务器与容器
+excerpt: |
+  服务器与容器
+category: 
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 # 1、什么是服务器
 
 查看Apache的定义时，会发现，Apache为Web server，也就是Web服务器。

@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:     Effective Java 看书总结
-category: blog
-description: Effective Java 看书总结
+title: Effective Java 看书总结
+excerpt: |
+  Effective Java 看书总结
+category: Books
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ## 第1章 引言 ##
 

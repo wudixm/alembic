@@ -1,3 +1,10 @@
+---
+title: Servlet & JSP Head First
+excerpt: |
+  Servlet & JSP Head First
+category: Books
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 ## 第1章 前言与概述-为什么使用Servlet & JSP ##
 
 今，用户需要的网站应该是动态的、交互式的，而且应该能够由客户定制。通过后面的介绍，你会了解如何把Web网站变成真正的Web应用。
