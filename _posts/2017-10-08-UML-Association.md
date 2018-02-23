@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:    UML关系 
-category: blog
-description: UML关系
+title: UML 关系
+excerpt: |
+  UML 关系
+category: 设计模式
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 ### UML关系元素
 
 UML模型是由各种事物以及这些事物之间的各种关系构成的。关系是指支配、协调各种模型元素存在并相互使用的规则。UML中主要包含四种关系，分别是**依赖、关联、泛化和实现**
