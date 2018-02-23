@@ -2,7 +2,7 @@
 title: Java -verbose
 excerpt: |
   Java -verbose
-category: Java GC
+category: Java 基础
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 Java -verbose:gc 中参数-verbose:gc 表示输出虚拟机中GC的详细情况

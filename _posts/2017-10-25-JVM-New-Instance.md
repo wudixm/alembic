@@ -2,7 +2,7 @@
 title: 反编译Java new对象过程后的dup 操作作用
 excerpt: |
   反编译Java new对象过程后的dup 操作作用
-category: JVM 字节码
+category: Java 基础
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### 问题：

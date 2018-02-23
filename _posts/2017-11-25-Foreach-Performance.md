@@ -2,7 +2,7 @@
 title: 测试foreach for 的循环性能
 excerpt: |
   测试foreach for 的循环性能
-category: Java 性能
+category: Java 基础
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ### 测试foreach for 的循环性能
