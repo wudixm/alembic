@@ -2,7 +2,7 @@
 title: Java 之性能优化
 excerpt: |
   Java 之性能优化
-category: Java NIO
+category: Java 基础
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ## Java 之性能优化
