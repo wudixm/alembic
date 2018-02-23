@@ -1,3 +1,10 @@
+---
+title: Java RMI
+excerpt: |
+  Java RMI
+category: Java 基础
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 ## Java 远程调用（RMI）
 
 RMI可以让一个虚拟机上的应用程序请求调用位于网络上另一处虚拟机上的对象。习惯上称发出调用请求的虚拟机为（本地）客户机，称接受并执行请求的虚拟机为（远程）服务器。

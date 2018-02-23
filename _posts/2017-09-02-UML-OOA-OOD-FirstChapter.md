@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      第一章 软件工程和建模
-category: blog
-description: UML面向对象系统分析与设计教程 
+title: 第一章 软件工程和建模
+excerpt: |
+  第一章 软件工程和建模
+category: 分析与设计
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 ## 第1章 软件工程和建模 ##
 
 ### 软件工程的发展历史

@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:     OOA-OOD Analysis and Design Part 3 Investigating System Requirements 
-category: blog
-description: OOA-OOD Analysis and Design Part 3 Investigating System Requirements
+title: OOA 与OOD 分析设计视频Part3 Investigating System Requirements
+excerpt: |
+  OOA 与OOD 分析设计视频Part3 Investigating System Requirements
+category: 分析与设计
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 原文： https://www.youtube.com/watch?v=bnbwNe-w2U4&list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra&index=7
 

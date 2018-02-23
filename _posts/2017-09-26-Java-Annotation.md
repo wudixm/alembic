@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:    Java 注解
-category: blog
-description:	Java 注解
+title: Java 注解
+excerpt: |
+  Java 注解
+category: Java 基础
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 视频地址：http://my.tv.sohu.com/pl/9110056/83327807.shtml
 

@@ -1,15 +1,11 @@
 ---
-layout:     post
-title:      Head First之工厂模式 知识点整理
-category: blog
-description: Head First之工厂模式 知识点整理
+title: Head First之工厂模式
+excerpt: |
+  Head First之工厂模式
+category: 设计模式
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
-
-
 ## 基础原则
-
-
 
 - 当看到"new" 时就会想到“具体”
 - 针对接口编程可以隔离掉系统以后可能发生的一大堆改变。为什么呢？如果代码是针对接口而写，那么通过多态，它可以与任何新类实现该接口。但是当代码使用大量的具体类时，等于是自找麻烦，因为一旦加入新的具体类，就必须改变代码。也就是说，你的代码并非“对修改关闭”。想用新的具体类型来扩展，必须重新打开它。

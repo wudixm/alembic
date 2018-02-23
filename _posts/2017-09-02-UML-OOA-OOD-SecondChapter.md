@@ -1,15 +1,11 @@
 ---
-layout:     post
-title:      第二章 面向对象技术 
-category: blog
-description: UML面向对象系统分析与设计教程 
+title: 第二章 面向对象技术
+excerpt: |
+  第二章 面向对象技术
+category: 分析与设计
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 ## 第2章 面向对象技术 ##
-
-
-
-
 
 ###  什么是面向对象
 

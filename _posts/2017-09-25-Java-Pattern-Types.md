@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:      设计模式类型
-category: blog
-description: 设计模式类型
+title: 设计模式类型
+excerpt: |
+  设计模式类型
+category: 设计模式
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 3 version of proxy
 
