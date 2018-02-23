@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:    Java8 默认方法
-category: blog
-description:	Java8 默认方法
+title: Java8 默认方法
+excerpt: |
+  Java8 默认方法
+category: Java 基础
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 # Java 8 默认方法（Default Methods）
 
 转载：http://ebnbin.com/2015/12/20/java-8-default-methods/

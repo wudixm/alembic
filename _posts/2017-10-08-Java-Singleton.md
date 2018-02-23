@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      单例模式的静态内部类实现与枚举实现
-category: blog
-description:  单例模式的静态内部类实现与枚举实现
+title: 单例模式的静态内部类实现与枚举实现
+excerpt: |
+  单例模式的静态内部类实现与枚举实现
+category: 设计模式
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
 ### 单例有几个点需要注意
 
 1. 线程安全

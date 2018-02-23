@@ -1,8 +1,9 @@
 ---
-layout:     post
-title:    Java XML
-category: blog
-description:	Java XML
+title: Java XML
+excerpt: |
+  Java XML
+category: Java Frameworks
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 ## Java XML 学习
 

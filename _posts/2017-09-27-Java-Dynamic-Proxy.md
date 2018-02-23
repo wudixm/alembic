@@ -1,3 +1,10 @@
+---
+title: Java 动态代理
+excerpt: |
+  Java 动态代理
+category: 设计模式
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
 视频地址：http://www.iqiyi.com/w_19rrxrm1s1.html
 
 ## 本节内容
