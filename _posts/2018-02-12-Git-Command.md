@@ -51,3 +51,8 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 `git diff --shortstat "@{0 day ago}"`：显示今天你写了多少行代码
 
+`git show [commit]`：显示某次提交的元数据和内容变化
+
+`git show —name-only [commit]`：显示某次提交发生变化的文件
+
+`git show [commit]:[filename]`：显示某次提交时，某个文件的内容
